@@ -17,6 +17,10 @@ Due to a limited timeframe, only the essentials were implemented and troubleshoo
   <img src="https://github.com/zent0m/LenFig/blob/main/images/ProjLen.gif" width="500">
 </p>
 
+<p align="center">
+  <img src="https://github.com/zent0m/LenFig/blob/main/images/wiring.jpg?raw=true" width="500">
+</p>
+
 
 ## Features
 - Web page authentication for the hosted web server.
