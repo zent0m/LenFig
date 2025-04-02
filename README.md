@@ -23,7 +23,8 @@ Due to a limited timeframe, only the essentials were implemented and troubleshoo
 - List, download, delete and upload files with progress bar and appropriate prompts.
 - Reboot ESP32 from the webpage.
 - Reset the WiFi configuration from the webpage.
-- Display GIFs onto the 
+- Display uploaded GIFs onto the TFT display.
+- Foolproof, can be configured and operated without having access to the onboard buttons.
 
 ## Attributions
 [Uploading to ESP32 Filesystem using AsyncWebServer by smford](https://github.com/smford/esp32-asyncwebserver-fileupload-example/tree/master).
