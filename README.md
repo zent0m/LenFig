@@ -9,6 +9,8 @@ GIF playback is limited by the hardware. Could be overclocked.
 
 Due to a limited timeframe, only the essentials were implemented and troubleshooted.
 
+Used Photoshop to design the window graphics to be printed on top of the laser cut acrylic window designed in Fusion 360.
+
 <p align="center">
   <img src="https://github.com/zent0m/LenFig/blob/main/images/ProjLen.jpg?raw=true" width="500">
 </p>
