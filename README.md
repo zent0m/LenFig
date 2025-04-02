@@ -9,8 +9,14 @@ GIF playback is limited by the hardware. Could be overclocked.
 
 Due to a limited timeframe, only the essentials were implemented and troubleshooted.
 
-![Image](/LenFig/images/ProjLen.jpg)
-![GIF](/LenFig/images/ProjLen.gif)
+<p align="center">
+  <img src="https://github.com/zent0m/LenFig/blob/main/images/ProjLen.jpg?raw=true" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/zent0m/LenFig/blob/main/images/ProjLen.gif" width="500">
+</p>
+
 
 ## Features
 - Web page authentication for the hosted web server.
@@ -21,4 +27,5 @@ Due to a limited timeframe, only the essentials were implemented and troubleshoo
 
 ## Attributions
 [Uploading to ESP32 Filesystem using AsyncWebServer by smford](https://github.com/smford/esp32-asyncwebserver-fileupload-example/tree/master).
+
 [Displaying animated GIFs to a TFT from SPIFFS using AnimatedGIFs by thelastoutpostworkshop](https://github.com/thelastoutpostworkshop/animated_gif_sdcard_spiffs/tree/main)
